@@ -1,3 +1,3 @@
-# Percel with Vue Demo
+# Parcel with Vue Demo
 
 - with Vue Single File Component
